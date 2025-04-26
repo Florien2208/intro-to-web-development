@@ -9,5 +9,29 @@
   border: none;
   max-width: 100%;
 }
+nav{
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+padding: 10px;
+height: 60px;
+}
+.hero{
+  background-image: ("./images/hero.png");
+}
+ul{
+  display: flex;
+  gap: 30px;
+}
+
+/* nav .list{
+ display: flex;
+  align-items: end;
+  align-content: end;
+} */
+nav .title{
+  font-size: 25px;
+}
 
 /* Write your code below this */
