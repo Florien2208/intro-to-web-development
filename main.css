@@ -92,3 +92,19 @@ footer {
   color: white;
   padding: 30px;
 }
+.about-me{
+  background: white;
+  padding: 57px;
+  text-align: center;
+  height: 350px;
+}
+.goal{
+  background: #F2F2F2;
+  padding: 57px;
+  text-align: center;
+  height: 350px;
+}
+.about-me p{
+ width: 50%;
+ margin: auto;
+}
